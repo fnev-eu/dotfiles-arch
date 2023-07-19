@@ -1,0 +1,5 @@
+.config/*
+!.config/fish
+!.config/neofetch
+!.config/sway
+!.config/wofi
